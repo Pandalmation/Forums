@@ -12,10 +12,10 @@ body {
 #LESS
 @primarycolor: #FF7F50;  
 @color:#80000f;  
-h2{  
+h2 {  
 color: @primarycolor;  
 }  
-h3{  
+h3 {  
 color: @color;  
 }  
 
