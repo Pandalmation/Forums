@@ -1,0 +1,32 @@
+#SASS
+$bgcolor: lightblue;
+$textcolor: darkblue;
+$fontsize: 18px;
+
+body {
+  background-color: $bgcolor;
+  color: $textcolor;
+  font-size: $fontsize;
+}
+
+#LESS
+@primarycolor: #FF7F50;  
+@color:#80000f;  
+h2{  
+color: @primarycolor;  
+}  
+h3{  
+color: @color;  
+}  
+
+#CSS
+h1 {
+    color:pink;
+    font-size:24px;
+  }
+  
+  p {
+    color:yellow;
+    font-size: 12px;
+  }
+  
